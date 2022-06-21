@@ -1,6 +1,6 @@
-# Object-Recognition- 
+# Object-Detection
 
-Object Recognition with resnet  using python 
+Object Detection with resnet  using python 
 
 
 After Recognition:
